@@ -1,3 +1,2 @@
-# CCDSAP (Foundation Level)
-
-This project contains programs present in **prepare section** of Foudation level
+## CCDSAP
+This project contains programs present in [prepare section](https://www.codechef.com/certification/prepare#foundation) of Foudation level.
